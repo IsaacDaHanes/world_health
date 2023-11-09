@@ -1,2 +1,2 @@
 # world_health
-An exploratory repository for discovering useful data in world health statistics.1
+An exploratory repository for discovering useful data in world health statistics
